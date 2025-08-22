@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>[JPT] Burn It for Fuel (Continued)</name>
+  <name>[Depricated] [JPT] Burn It for Fuel (Continued)</name>
   <packageId>Mlie.JPTBurnItForFuel</packageId>
   <author>jptrrs</author>
   <url>https://github.com/emipa606/JPTBurnItForFuel</url>
@@ -33,7 +33,9 @@
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of jptrrss mod https://steamcommunity.com/sharedfiles/filedetails/?id=1823276856
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://i.imgur.com/3npT60J.png[/img]
+
+This mod has been replaced by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3553442151][JPT] Burn It for Fuel 2[/url] by jptrrs
 
 [table]
     [tr][td][url=https://discord.gg/h5TY6DA][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/JPTBurnItForFuel][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
@@ -99,5 +101,5 @@ Translations by leafzxg(ZH) and richardwhitewood1998 (RU).
 [/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3004932466][img]https://img.shields.io/github/v/release/emipa606/JPTBurnItForFuel?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  burning options</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
 </ModMetaData>

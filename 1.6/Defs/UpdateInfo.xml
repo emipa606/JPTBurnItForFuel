@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="JPTBurnItForFuel_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3004932466</linkUrl>
+		<banner>UpdateInfo/JPTBurnItForFuel</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="JPTBurnItForFuel_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>JPTBurnItForFuel_1_6_0</defName>
+		<date>2025/8/22</date>
+		<content>This mod will not be further updated, please use [JPT] Burn It for Fuel 2 by jptrrs instead.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

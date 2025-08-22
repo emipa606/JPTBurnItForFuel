@@ -1,10 +1,12 @@
-# [[JPT] Burn It for Fuel (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3004932466)
+# [[Depricated] [JPT] Burn It for Fuel (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3004932466)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of jptrrss mod https://steamcommunity.com/sharedfiles/filedetails/?id=1823276856
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/3npT60J.png)
+
+This mod has been replaced by [[JPT] Burn It for Fuel 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3553442151) by jptrrs
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
